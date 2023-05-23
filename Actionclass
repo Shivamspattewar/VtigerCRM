@@ -23,7 +23,7 @@ public class Click {
 		a.click(click);
 		//we are just updating to perform push action from local repo to global repo
 		a.perform();
-		
+		//The file is editing for the pull action
 
 	}
 
