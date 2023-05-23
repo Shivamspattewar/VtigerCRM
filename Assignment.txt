@@ -1,0 +1,30 @@
+//td[text()='Buddhist train']
+//td[text()='Buddhist train']/..//td[text()='buddhisttrain@irctc.com']
+
+
+
+For iphone 13
+
+//span[text()='APPLE iPhone 13 (Midnight, 128 GB)']/../../..//div[text()='₹58,999']
+
+//span[text()='APPLE iPhone 13 (Midnight, 128 GB)']/../../..//div[@class='_30jeq3 _16Jk6d']
+
+
+
+
+1} go to flipkart take 3 mobile and write indipendent and dependent xpath
+
+      1]samsung s23 green
+                         //span[text()='SAMSUNG Galaxy S23 5G (Green, 256 GB)']/../../..//div[@class='_30jeq3 _16Jk6d']
+
+      2]samsung s23 ultra
+                        //span[text()='SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)']/../../..//div[@class='_30jeq3 _16Jk6d']
+
+      3]SONY Bravia 163.9 cm (65 inch) Ultra HD (4K) LED Smart TV
+                        //span[text()='SONY Bravia 163.9 cm (65 inch) Ultra HD (4K) LED Smart TV']  = Indipendent
+                        //span[text()='SONY Bravia 163.9 cm (65 inch) Ultra HD (4K) LED Smart TV']/../../..//div[@class='_30jeq3 _16Jk6d'] = 
+
+
+
+
+2}pageloadtimeout
